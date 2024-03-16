@@ -1,2 +1,2 @@
-# PersonalBlog
-My personal blog
+# Personal blog
+URL: https://zbion1c.github.io/PersonalBlog/
